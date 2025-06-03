@@ -1,5 +1,5 @@
 # app-dev
-My first repository
+My first app-dev repository
 
 ### The Pianist
 ![The Pianist](https://github.com/user-attachments/assets/05f411a2-e5ce-466b-88fb-501c882ae31f)
